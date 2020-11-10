@@ -8,4 +8,4 @@ want to check it out?
 - npm install
 - node app.js
 
--visit localhost:5000
+- visit localhost:5000
